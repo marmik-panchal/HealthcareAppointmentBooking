@@ -20,5 +20,9 @@ $ composer install
 $ php artisan migrate
 $ php artisan db:seed
 ```
+
+## API Documentation
+- http://localhost:8000/api/docs
+
 ## Stay in touch
 - Marmik Panchal - [Marmik Panchal]()
